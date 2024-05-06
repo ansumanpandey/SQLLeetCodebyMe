@@ -3,56 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1341. Movie Rating.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1341. Movie Rating.md||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\626. Exchange Seats.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:626. Exchange Seats.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1907. Count Salary Categories.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1907. Count Salary Categories.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1164. Product Price at a Given Date.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1164. Product Price at a Given Date.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\180. Consecutive Numbers.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:180. Consecutive Numbers.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1045. Customers Who Bought All Products.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1045. Customers Who Bought All Products.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1070. Product Sales Analysis III.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1070. Product Sales Analysis III.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\550. Game Play Analysis IV.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:550. Game Play Analysis IV.md||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1174. Immediate Food Delivery II.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1174. Immediate Food Delivery II.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1193. Monthly Transactions I.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1193. Monthly Transactions I.md||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1934. Confirmation Rate.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1934. Confirmation Rate.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\570. Managers with at Least 5 Direct Reports.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:570. Managers with at Least 5 Direct Reports.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1757. Recyclable and Low Fat Products.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1757. Recyclable and Low Fat Products.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1321. Restaurant Growth.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1321. Restaurant Growth.md||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,160 +27,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1341. Movie Rating.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1341. Movie Rating.md",
-              "RelativeDocumentMoniker": "1341. Movie Rating.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1341. Movie Rating.md",
-              "RelativeToolTip": "1341. Movie Rating.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Title": "1321. Restaurant Growth.md",
+              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1321. Restaurant Growth.md",
+              "RelativeDocumentMoniker": "1321. Restaurant Growth.md",
+              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1321. Restaurant Growth.md",
+              "RelativeToolTip": "1321. Restaurant Growth.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-03T09:14:10.211Z",
+              "WhenOpened": "2024-05-06T12:40:09.821Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "626. Exchange Seats.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\626. Exchange Seats.md",
-              "RelativeDocumentMoniker": "626. Exchange Seats.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\626. Exchange Seats.md",
-              "RelativeToolTip": "626. Exchange Seats.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T07:36:42.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "1907. Count Salary Categories.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1907. Count Salary Categories.md",
-              "RelativeDocumentMoniker": "1907. Count Salary Categories.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1907. Count Salary Categories.md",
-              "RelativeToolTip": "1907. Count Salary Categories.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T06:10:09.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "1164. Product Price at a Given Date.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1164. Product Price at a Given Date.md",
-              "RelativeDocumentMoniker": "1164. Product Price at a Given Date.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1164. Product Price at a Given Date.md",
-              "RelativeToolTip": "1164. Product Price at a Given Date.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:44:35.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "180. Consecutive Numbers.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\180. Consecutive Numbers.md",
-              "RelativeDocumentMoniker": "180. Consecutive Numbers.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\180. Consecutive Numbers.md",
-              "RelativeToolTip": "180. Consecutive Numbers.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:42:44.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "1045. Customers Who Bought All Products.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1045. Customers Who Bought All Products.md",
-              "RelativeDocumentMoniker": "1045. Customers Who Bought All Products.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1045. Customers Who Bought All Products.md",
-              "RelativeToolTip": "1045. Customers Who Bought All Products.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:41:01.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "1070. Product Sales Analysis III.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1070. Product Sales Analysis III.md",
-              "RelativeDocumentMoniker": "1070. Product Sales Analysis III.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1070. Product Sales Analysis III.md",
-              "RelativeToolTip": "1070. Product Sales Analysis III.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:37:26.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "1174. Immediate Food Delivery II.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1174. Immediate Food Delivery II.md",
-              "RelativeDocumentMoniker": "1174. Immediate Food Delivery II.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1174. Immediate Food Delivery II.md",
-              "RelativeToolTip": "1174. Immediate Food Delivery II.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:30:57.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "550. Game Play Analysis IV.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\550. Game Play Analysis IV.md",
-              "RelativeDocumentMoniker": "550. Game Play Analysis IV.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\550. Game Play Analysis IV.md",
-              "RelativeToolTip": "550. Game Play Analysis IV.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:28:59.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "1193. Monthly Transactions I.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1193. Monthly Transactions I.md",
-              "RelativeDocumentMoniker": "1193. Monthly Transactions I.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1193. Monthly Transactions I.md",
-              "RelativeToolTip": "1193. Monthly Transactions I.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:26:34.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "1934. Confirmation Rate.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1934. Confirmation Rate.md",
-              "RelativeDocumentMoniker": "1934. Confirmation Rate.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1934. Confirmation Rate.md",
-              "RelativeToolTip": "1934. Confirmation Rate.md",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:24:05.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "1757. Recyclable and Low Fat Products.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1757. Recyclable and Low Fat Products.md",
-              "RelativeDocumentMoniker": "1757. Recyclable and Low Fat Products.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1757. Recyclable and Low Fat Products.md",
-              "RelativeToolTip": "1757. Recyclable and Low Fat Products.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:22:22.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "570. Managers with at Least 5 Direct Reports.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\570. Managers with at Least 5 Direct Reports.md",
-              "RelativeDocumentMoniker": "570. Managers with at Least 5 Direct Reports.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\570. Managers with at Least 5 Direct Reports.md",
-              "RelativeToolTip": "570. Managers with at Least 5 Direct Reports.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-02T05:22:20.273Z"
             }
           ]
         }
