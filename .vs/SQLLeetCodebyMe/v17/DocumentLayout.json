@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1378. Replace Employee ID With The Unique Identifier.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1378. Replace Employee ID With The Unique Identifier.md||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\176. Second Highest Salary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:176. Second Highest Salary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1068. Product Sales Analysis I.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1068. Product Sales Analysis I.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1378. Replace Employee ID With The Unique Identifier.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1378. Replace Employee ID With The Unique Identifier.md",
-              "RelativeDocumentMoniker": "1378. Replace Employee ID With The Unique Identifier.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1378. Replace Employee ID With The Unique Identifier.md",
-              "RelativeToolTip": "1378. Replace Employee ID With The Unique Identifier.md",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAcAAAAAAAAA",
+              "Title": "1068. Product Sales Analysis I.md",
+              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1068. Product Sales Analysis I.md",
+              "RelativeDocumentMoniker": "1068. Product Sales Analysis I.md",
+              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1068. Product Sales Analysis I.md",
+              "RelativeToolTip": "1068. Product Sales Analysis I.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-10T06:33:33.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "176. Second Highest Salary.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\176. Second Highest Salary.md",
-              "RelativeDocumentMoniker": "176. Second Highest Salary.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\176. Second Highest Salary.md",
-              "RelativeToolTip": "176. Second Highest Salary.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-09T05:43:49.046Z",
+              "WhenOpened": "2024-05-14T05:37:29.888Z",
               "EditorCaption": ""
             }
           ]
