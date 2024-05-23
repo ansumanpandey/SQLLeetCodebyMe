@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1581. Customer Who Visited but Did Not Make Any Transactions.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1581. Customer Who Visited but Did Not Make Any Transactions.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1068. Product Sales Analysis I.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1068. Product Sales Analysis I.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1581. Customer Who Visited but Did Not Make Any Transactions.md",
+              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1581. Customer Who Visited but Did Not Make Any Transactions.md",
+              "RelativeDocumentMoniker": "1581. Customer Who Visited but Did Not Make Any Transactions.md",
+              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\SQLLeetCodebyMe\\1581. Customer Who Visited but Did Not Make Any Transactions.md",
+              "RelativeToolTip": "1581. Customer Who Visited but Did Not Make Any Transactions.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-23T09:00:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "1068. Product Sales Analysis I.md",
               "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\SQLLeetCodebyMe\\1068. Product Sales Analysis I.md",
               "RelativeDocumentMoniker": "1068. Product Sales Analysis I.md",
